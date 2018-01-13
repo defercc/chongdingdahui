@@ -3,7 +3,7 @@
 
 > 这只是个帮助脚本，作为参考，没有准确答案。**多读书才是王道！！！**
 
-参考[MQL9011](https://github.com/MQL9011/KnowledgeMoney)
+代码参考[MQL9011](https://github.com/MQL9011/KnowledgeMoney)
 
 ### 原理
 
