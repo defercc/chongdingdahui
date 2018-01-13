@@ -1,7 +1,7 @@
 # chongdingdahui
 冲顶大会答题帮助脚本
 
-> 这只是个帮助脚本，作为参考，没有准确答案
+> 这只是个帮助脚本，作为参考，没有准确答案。**多读书才是王道！！！**
 
 ### 原理
 
@@ -25,7 +25,3 @@ python work.py
 ```
 
 ![image](http://cc-assets.oss-cn-hangzhou.aliyuncs.com/test/images/QQ20180113-134026%402x%20%281%29.png)
-
-### 友情提醒
-
-**多读书！！！**
