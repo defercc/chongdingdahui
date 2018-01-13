@@ -24,7 +24,7 @@ pip install -r requirements.txt
 python work.py
 ```
 
-![image](http://cc-assets.oss-cn-hangzhou.aliyuncs.com/test/images/QQ20180113-134026%402x.png)
+![image](http://cc-assets.oss-cn-hangzhou.aliyuncs.com/test/images/QQ20180113-134026%402x%20%281%29.png)
 
 ### 友情提醒
 
